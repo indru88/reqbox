@@ -20,3 +20,15 @@ Grab the latest installer for your platform from the [Releases page](https://git
 ## Verifying a release
 
 Every build is signed. The desktop app verifies this signature automatically before installing an update — you don't need to do anything manually.
+
+## Support the project
+
+ReqBox is free to use. If it's useful to you, any support is welcome and appreciated ❤️
+
+☕ **[Invitame un Cafecito](https://cafecito.app/indrusoft)**
+
+| Crypto | Address |
+| --- | --- |
+| Bitcoin (BTC) | `bc1q4fpg5fq2fkg35fefta4r23nyeqjlnfh3mzv4hv` |
+| Ethereum (ETH) | `0x9119834690Bc4C3D44b1aEf521a4f7F17e102182` |
+| Tron (TRC20) | `TASBHqQ6UiNQV4uv1aUofiFZniT9Zof5Aq` |
