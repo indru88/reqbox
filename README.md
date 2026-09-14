@@ -25,7 +25,7 @@ Every build is signed. The desktop app verifies this signature automatically bef
 
 ReqBox is free to use. If it's useful to you, any support is welcome and appreciated ❤️
 
-☕ **[Invitame un Cafecito](https://cafecito.app/indrusoft)**
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/indrusoft)
 
 | Crypto | Address |
 | --- | --- |
