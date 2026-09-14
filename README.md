@@ -1,3 +1,22 @@
-# ReqBox Releases
+# ReqBox
 
-Signed release builds and release notes for the ReqBox desktop app. No source code here — see the app's own repo for that.
+**A fast, local-first API client.** Desktop app for Windows, macOS and Linux.
+
+[![Latest release](https://img.shields.io/github/v/release/indru88/reqbox?label=latest&color=4f8cff)](https://github.com/indru88/reqbox/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/indru88/reqbox/total?color=4f8cff)](https://github.com/indru88/reqbox/releases)
+
+This repo holds **signed release builds and release notes only** — no source code lives here. The app updates itself: once installed, it checks for new versions automatically and offers to install them in place.
+
+## Download
+
+Grab the latest installer for your platform from the [Releases page](https://github.com/indru88/reqbox/releases/latest).
+
+| Platform | Package |
+| --- | --- |
+| Linux | `.deb` |
+| Windows | *(coming soon)* |
+| macOS | *(coming soon)* |
+
+## Verifying a release
+
+Every build is signed. The desktop app verifies this signature automatically before installing an update — you don't need to do anything manually.
